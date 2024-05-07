@@ -1,0 +1,103 @@
+    Carnivore page
+
+<html>
+  <head>
+
+    <link rel="stylesheet" href="style.css">
+
+    
+    <h1> Carnavorism </h1>
+
+    <h4> Pros</h4>
+    <ul>
+
+      <li><p> Lowered blood sugar  </p></li>
+      <li><p> Decreased intestinal discomfort </p></li>
+      <li><p> Weight loss  </p></li>
+      <li><p> Reduces symptoms of chronic disease  </p></li>
+    </ul>
+
+
+      <h4> Cons</h4>
+      <ul>
+      <li><p> Low dietary fiber </p></li>
+      <li><p> Raises cholesterol level </p></li>
+      <li><p>Increases person's risk of coronary heart disease </p></li>
+
+    </ul>
+  <a href="index.html">click here to get back to the main page </a>
+  </head>
+  <body>
+    
+  </body>
+</html>
+
+Vegetarian page
+
+<html>
+  <head>
+ 
+    <link rel="stylesheet" href="style.css">
+
+    
+    <h1>Vegitarianism </h1>
+    <h4> Pros</h4>
+    <ul>
+      <li><p>Can help your hearts health and improve bloodflow throughout your body</p></li>
+      <li><p> It can provide majoritey of nutrients that a normal diet wouldnt provide and help you manage your weight </p></li>
+<li><p>Can help prevent diseases like cardiovascular disease, hypertension, diabetes, cancer, osteoporosis, renal disease and dementia</p></li> </ul>
+      
+    <h4> Cons</h4>
+    <ul>
+      <li><p>You will have a deficiency of vitamin B, bu you can buy suppliments to help with that </p></li>
+      <li><p>It will lower bone density, but its not a big change to them</p></li>      
+      <li><p> You will have a limited meal options </p></li>
+      </ul>
+      
+
+    
+    <a href="index.html">click here to get back to the main page </a>
+  </head>
+  <body>
+    
+  </body>
+</html>
+Mediterranean page
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+
+    
+    <h1> Mediterraneanism </h1>
+
+    <h4> Pros</h4>
+    <ul>
+    
+      <li><p>Reduces chance of type 2 diabetes</p></li>
+      <li><p> Reduces chance of type 2 diabetes</p></li>
+      <li><p> Lowers Risk of Stroke and Coronary Heart Disease in Women </p></li>
+
+      
+    </ul>
+    
+    <h4> Cons</h4>
+    <ul>
+      <li><p>Research doesn’t suggest any risks associated with the Mediterranean diet 
+        </p></li>
+     
+   </ul>
+
+    <a href="index.html">click here to get back to the main page </a>
+  </head>
+  <body>
+    
+  </body>
+</html>
+
+Css sheet
+body{background-color: cadetblue}
+
+p{color: white}
+
+ul{color: white}
+
